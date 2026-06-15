@@ -23,9 +23,9 @@ Basic input validation
 Age calculation in months
 Sample Output
 Code 
-===================================
+
      PERSONAL INFORMATION
-===================================
+
 Name: Deeksha sethi
 Age: 19 (228 months old)
 City: faridabad
@@ -33,7 +33,7 @@ Hobby: writing
 
 Favorite Food: Pizza
 Favorite Color: Blue
-===================================
+
 Thank you for using the program!
 Challenges & Solutions
 Challenge: User might enter empty input
