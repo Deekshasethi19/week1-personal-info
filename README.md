@@ -43,3 +43,7 @@ Solution: Added basic check with if statement
 Challenge: Formatting the output nicely
 
 Solution: Used f-strings with proper spacing
+
+## program output
+![Program Output]
+(Screenshot%2026-06-16%001933.png)
