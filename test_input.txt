@@ -1,0 +1,8 @@
+Test Case 1
+
+Name: deeksha sethi
+Age: 19
+City: faridabad
+Hobby: Writing
+Favorite Food: pizza
+Favorite Color: blue
